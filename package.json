@@ -1,0 +1,14 @@
+{
+  "name": "fuse.dialogs",
+  "version": "1.0.0",
+  "description": "Fuse 对话框",
+  "main": "Fuse.Dialogs.unoproj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fuse"
+  ],
+  "author": "Gaubee",
+  "license": "MIT"
+}

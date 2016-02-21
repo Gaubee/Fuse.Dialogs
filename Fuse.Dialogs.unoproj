@@ -1,0 +1,16 @@
+{
+  "Copyright": "Copyright (c) Fusetools AS 2014",
+  "Description": "Fuse.Dialogs",
+  "Publisher": "Gaubee",
+  "Version": "1.0.0",
+  "Packages": [
+    "Uno.Collections",
+    "Uno.Threading",
+    "Fuse.Scripting",
+    "Fuse.Designer",
+    "FuseCore",
+  ],
+  "Includes": [
+    "*",
+  ]
+}
